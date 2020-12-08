@@ -1,0 +1,62 @@
+
+/* Style sheet created by: Mohammed Fahim Vellachalil */
+
+/* Style for body specifies a background color */
+
+body {
+    background-color:  #5a564d;
+}
+
+/* Style for the container element */
+#container {
+    width: 100%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+main {
+    display: block;
+	font-size: 1em;
+	margin-top: 0.4em;
+	padding: 1em;
+	border-radius: .98em;
+    background-color: #E3D7BC;
+    font-family: sans-serif;
+}
+
+/* Styles for figure */
+figure, figcaption {
+    text-align: center;
+ 
+}
+
+/*Styles for image*/
+img {
+    max-width: 100%;
+}
+
+/* Styles for figcaption */
+figcaption {
+    font-size: xx-large;
+    padding: .85em;
+    text-align: center;
+}
+
+
+/* Style for the footer element */
+footer {
+	font-size: .70em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+/* Style for the table*/
+table {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
